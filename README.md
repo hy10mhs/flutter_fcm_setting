@@ -1,3 +1,6 @@
+# Follow this Very Good Medium Article (Thank you :)
+https://medium.com/flutterpub/enabling-firebase-cloud-messaging-push-notifications-with-flutter-39b08f2ed723
+
 # ryan_ft_push_notification
 
 A new Flutter project.
