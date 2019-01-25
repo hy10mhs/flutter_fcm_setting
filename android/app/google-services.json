@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "340589078809",
+    "firebase_url": "https://ryan-ft-push-notification.firebaseio.com",
+    "project_id": "ryan-ft-push-notification",
+    "storage_bucket": "ryan-ft-push-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340589078809:android:7a7ffd3ca960b565",
+        "android_client_info": {
+          "package_name": "com.example.ryanftpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340589078809-bdg9dfio2klgu0gd8sj5jh64ponvv8q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1R5jJoo1HyHz8I3JRh5U_Co55j6Z9l1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
